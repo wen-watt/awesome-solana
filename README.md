@@ -18,6 +18,7 @@ Table of Contents
 * [Overview](#overview)
 * [Solana VM Blockchains](#solana-vm-blockchains)
 * [Books and Tutorials](#books-and-tutorials)
+* - [Wen Open Lab: Token-2022 models](https://github.com/wen-watt/wen-watt.github.io/tree/main/lab/code) open TypeScript examples of Token-2022 extensions (soulbound receipt NFT with metadata in the mint, required memo, frozen-by-default accounts, capped transfer fees), tested in LiteSVM and runnable on devnet
 * [Jobs](#jobs)
 * [Block Explorers](#block-explorers)
 * [Code](#code)
